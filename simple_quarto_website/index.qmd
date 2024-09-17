@@ -1,0 +1,71 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+format: html
+---
+# Georgetown University
+
+## DSAN program
+
+### DSAN 5000
+
+## Introduction
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.
+
+::: {.columns}
+## Comment 1
+Data Science is a good subject to study.
+
+## Comment 2
+Data Science is a hard subject to study.
+:::
+
+## List for school life
+- My teachers
+- My classmates
+- My pets
+
+## Table Example
+
+| N/A | Classmates |
+|----------|----------|
+| Dog lover   | 10  |
+| Cat lover   | 20  |
+
+## Inline Math
+Here is an inline math equation: $a^2 + b^2 = c^2$
+
+## Block Math
+Here is a block math equation:
+
+$$
+E = mc^2
+$$
+
+This is a statement with a footnote[^1].
+
+[^1]: This is the text of the footnote.
+
+> Let's do the quate from the slides of DSAN 5000: This course introduces students to several core data science concepts. It teaches students how to synthesize disparate, possibly unstructured data to better understand and characterize the world, and in some cases, to draw meaningful inferences.
+
+## Image Example
+
+![This is an image](images/Stardew_Valley.png)
+
+## Video Example
+
+![This is a video](images/Cqq.mp4)
+
+## Mermaid Diagram Example
+```{mermaid}
+flowchart LR
+  A --> B
+  B --> C
+  C --> D
+  C --> E
+```
+
+## Reference
+1. According to @van2016data, data science has applications in many areas.
+
+2. High-dimensional probability plays a key role in modern data science @vershynin2018high.

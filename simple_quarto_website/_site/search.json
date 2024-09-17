@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.\n\n\n\n\nData Science is a good subject to study.\n\n\nData Science is a hard subject to study.\n\n\n\n\n\nMy teachers\nMy classmates\nMy pets\n\n\n\n\n\n\n\nN/A\nClassmates\n\n\n\n\nDog lover\n10\n\n\nCat lover\n20\n\n\n\n\n\n\nHere is an inline math equation: \\(a^2 + b^2 = c^2\\)\n\n\n\nHere is a block math equation:\n\\[\nE = mc^2\n\\]\nThis is a statement with a footnote1.\n\nLet’s do the quate from the slides of DSAN 5000: This course introduces students to several core data science concepts. It teaches students how to synthesize disparate, possibly unstructured data to better understand and characterize the world, and in some cases, to draw meaningful inferences.\n\n\n\n\n\n\n\nThis is an image\n\n\n\n\n\n\n\nVideo\nThis is a video\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A --&gt; B\n  B --&gt; C\n  C --&gt; D\n  C --&gt; E\n\n\n\n\n\n\n\n\n\n\nAccording to Van Der Aalst and Aalst (2016), data science has applications in many areas.\nHigh-dimensional probability plays a key role in modern data science Vershynin (2018)."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+  },
+  {
+    "objectID": "index.html#comment-1",
+    "href": "index.html#comment-1",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Data Science is a good subject to study."
+  },
+  {
+    "objectID": "index.html#comment-2",
+    "href": "index.html#comment-2",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Data Science is a hard subject to study."
+  },
+  {
+    "objectID": "index.html#list-for-school-life",
+    "href": "index.html#list-for-school-life",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "My teachers\nMy classmates\nMy pets"
+  },
+  {
+    "objectID": "index.html#table-example",
+    "href": "index.html#table-example",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "N/A\nClassmates\n\n\n\n\nDog lover\n10\n\n\nCat lover\n20"
+  },
+  {
+    "objectID": "index.html#inline-math",
+    "href": "index.html#inline-math",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Here is an inline math equation: \\(a^2 + b^2 = c^2\\)"
+  },
+  {
+    "objectID": "index.html#block-math",
+    "href": "index.html#block-math",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Here is a block math equation:\n\\[\nE = mc^2\n\\]\nThis is a statement with a footnote1.\n\nLet’s do the quate from the slides of DSAN 5000: This course introduces students to several core data science concepts. It teaches students how to synthesize disparate, possibly unstructured data to better understand and characterize the world, and in some cases, to draw meaningful inferences."
+  },
+  {
+    "objectID": "index.html#image-example",
+    "href": "index.html#image-example",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is an image"
+  },
+  {
+    "objectID": "index.html#video-example",
+    "href": "index.html#video-example",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Video\nThis is a video"
+  },
+  {
+    "objectID": "index.html#mermaid-diagram-example",
+    "href": "index.html#mermaid-diagram-example",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "flowchart LR\n  A --&gt; B\n  B --&gt; C\n  C --&gt; D\n  C --&gt; E"
+  },
+  {
+    "objectID": "index.html#reference",
+    "href": "index.html#reference",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "According to Van Der Aalst and Aalst (2016), data science has applications in many areas.\nHigh-dimensional probability plays a key role in modern data science Vershynin (2018)."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the text of the footnote.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1-introduction",
+    "href": "slides/slides.html#slide-1-introduction",
+    "title": "My Quarto Presentation",
+    "section": "Slide 1: Introduction",
+    "text": "Slide 1: Introduction\n\nWelcome to my presentation on data science."
+  },
+  {
+    "objectID": "slides/slides.html#slide-2-data-science-overview",
+    "href": "slides/slides.html#slide-2-data-science-overview",
+    "title": "My Quarto Presentation",
+    "section": "Slide 2: Data Science Overview",
+    "text": "Slide 2: Data Science Overview\n\nData science is the field that combines statistics, data analysis, and machine learning."
+  },
+  {
+    "objectID": "slides/slides.html#slide-3-conclusion",
+    "href": "slides/slides.html#slide-3-conclusion",
+    "title": "My Quarto Presentation",
+    "section": "Slide 3: Conclusion",
+    "text": "Slide 3: Conclusion\n\nThank you for attending!"
+  },
+  {
+    "objectID": "slides/slides.html#data-science-and-its-applications",
+    "href": "slides/slides.html#data-science-and-its-applications",
+    "title": "My Quarto Presentation",
+    "section": "Data Science and Its Applications",
+    "text": "Data Science and Its Applications\n\nAccording to Van Der Aalst and Aalst (2016), data science has applications in many areas.\nHigh-dimensional probability plays a key role in modern data science Vershynin (2018)."
+  },
+  {
+    "objectID": "slides/slides.html#slide-with-images",
+    "href": "slides/slides.html#slide-with-images",
+    "title": "My Quarto Presentation",
+    "section": "Slide with Images",
+    "text": "Slide with Images\n\n\n\n\nFirst Image\n\n\n\n\n\nSecond Image"
+  },
+  {
+    "objectID": "slides/slides.html#section",
+    "href": "slides/slides.html#section",
+    "title": "My Quarto Presentation",
+    "section": "",
+    "text": "#| code-line-numbers: \"|6|9\" \nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Generate data\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\n# Create a plot\nplt.plot(x, y)\nplt.title('Sine Wave Plot')\nplt.xlabel('X-axis')\nplt.ylabel('Y-axis')\nplt.show()\n\n\n\n\n\n\n\n\n\nVan Der Aalst, Wil, and Wil van der Aalst. 2016. Data Science in Action. Springer.\n\n\nVershynin, Roman. 2018. High-Dimensional Probability: An Introduction with Applications in Data Science. Vol. 47. Cambridge university press."
+  }
+]
